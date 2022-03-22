@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SPINZRR :-)
+- 👀 I’m interested in AI/ML projects using python.
+- 🌱 I’m currently learning python and I have a general idea about machine learning. 
+- 📫 How to reach me:- r.tiwari.cse@gmail.com
